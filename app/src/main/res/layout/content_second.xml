@@ -21,10 +21,20 @@
 
 
 
-        <Button
-            android:id="@+id/buttonSend"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:text="Send Email of Entire Graph Data" />
+    <Button
+        android:id="@+id/buttonSend"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Email of Entire Graph Data" />
+    <Button
+        android:id="@+id/buttonSend2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Email of Vertical Line Graph Data" />
+    <Button
+        android:id="@+id/buttonSend3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Email of Horizontal Graph Data" />
 
     </LinearLayout>
